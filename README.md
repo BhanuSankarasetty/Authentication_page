@@ -122,6 +122,4 @@ GET 	/home	    Protected home route
 
 - Add role-based access control
 
-- Integrate MongoDB or PostgreSQL for persistent user storage
-
 - Add unit and integration tests
